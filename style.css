@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+   
+}
+img {
+  width: 300px;
+  border-radius: 100px;
+}
+h1 {
+  font-size: 30px
+}
+p {
+  font-size: 25px;
+}
+.lists:hover{
+    background-color: white;
+}
+.lists {
+    float: left;
+    color: #000;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: serif;
+    font-size: 20px;
+  
+}
+.menu {
+    cursor:pointer;
+}
+#bio {
+background-color: pink;
+
+}
+
+#myfpaintings {
+    background-color: hotpink;
+}
+#inspiration {
+    background-color: deeppink;
+}
